@@ -1,6 +1,6 @@
-# Actv #
+# Sample #
 
-react-native codebase repo for Actv for both iOS and Android mobile app.
+react-native codebase repo for Sample for both iOS and Android mobile app.
 
 
 # Development
